@@ -1,4 +1,8 @@
 # Calculator
+Part- 2
+
+Basic authentication mechanism for the same where a username and password is accepted
+
 
 Part-1 (code is @branch "Part1")
 
